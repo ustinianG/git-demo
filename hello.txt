@@ -7,6 +7,4 @@ hello atguigu! hello git!
 hello atguigu! hello git!33
 hello atguigu! hello git!master 
 hello atguigu! hello git!hot-fix
-222222222
-hello atguigu!
-gaowendebianji
+zuixinabnadebianji
